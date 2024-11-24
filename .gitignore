@@ -1,0 +1,19 @@
+# Ignorar arquivos do ambiente virtual
+venv/
+myenv/
+
+# Ignorar arquivos de compilação do Python
+__pycache__/
+*.pyc
+
+# Ignorar arquivos de configuração do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos do IDE (ex: PyCharm, VSCode)
+.idea/
+.vscode/
+
+# Ignorar arquivos de dependências
+node_modules/
+.env
